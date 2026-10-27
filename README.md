@@ -1,7 +1,7 @@
-# Tutoring Centre Utilisation & Attendance Analysis
+# Tutoring Center Utilisation & Attendance Analysis
 
 ## Question
-When are tutoring sessions best and worst attended, and what drives demand at the centre?
+When are tutoring sessions best and worst attended, and what drives demand at the center?
 
 ## Data
 2,035 tutoring session records (Jan 26 - Apr 22, 2026) with modality, subject, date, time slot, student program affiliation, and attendance status (Attended, Cancelled, No Show). The data is private and not included in this repository, so the upload cell in the notebook will not run without the original file.
